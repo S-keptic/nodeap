@@ -46,4 +46,4 @@ jobs:
               --name aws-api \
               --restart unless-stopped \
               -p 3000:3000 \
-              anmolsr/aws-api:latest
+              anmolsr/aws-api:latest 
